@@ -28,4 +28,6 @@ Click [**Here**](https://docs.google.com/spreadsheets/d/1b_dvmyhb_kAJhUmv81rAxl4
 3. **Geospatial Visualization**: The geospatial data from the Airbnb dataset is used to create interactive folium maps. The distribution of listings across different locations are visualized allowing users to explore prices, ratings, and other relevant factors.
 4. **Analysis and Visualization**: Python plotly is used to analyze and visualize how prices vary across different locations, property types, and seasons. 
 5. **Dashboard Creation**:Tableau is used to create a comprehensive dashboard that presents key insights from analysis. 
+# Tableau Dashboard
+![image](https://github.com/NiloferMubeen/Project-4-AirBNB-Analysis/assets/143819770/0bd55f12-1759-428c-a4d2-af9af6374b20)
 
