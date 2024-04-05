@@ -1,6 +1,6 @@
 # Project-4-AirBNB-Analysis
 # SUMMARY
-This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
+This project is focused on analyzing Airbnb data using MongoDB Atlas, conducting data cleaning and preparation, crafting interactive geospatial visualizations, and generating dynamic plots to uncover insights regarding pricing fluctuations, availability trends, and location-specific patterns.
 # What is AirBNB Data?
 Airbnb data is information collected and stored by Airbnb, a popular online marketplace for lodging and vacation rentals.This data includes details about the properties listed on the platform, such as location, amenities, availability, and pricing.It also encompasses user information, such as guest reviews, host profiles. Airbnb uses this data to facilitate bookings, improve user experience, and make informed business decisions.Examples of Airbnb data include information about listings,reviews, host profiles, and pricing.
 ## What are the attributes of AirBnB Data?
