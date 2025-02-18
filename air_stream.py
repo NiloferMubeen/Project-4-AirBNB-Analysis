@@ -38,7 +38,7 @@ def set_background(png_file):
 </style>
 """, unsafe_allow_html=True)
 
-set_background('F:\Learnings\DataScientist\GUVI-1\Airbnb\Bck1.png')
+set_background('https://github.com/NiloferMubeen/Project-4-AirBNB-Analysis/blob/main/Bck1.png')
 
 df1 = pd.read_csv('AirBNB.csv')
 
